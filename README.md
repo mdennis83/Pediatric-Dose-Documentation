@@ -19,9 +19,16 @@ It involves visit to the all the government owned facilties with functional pedi
 Ms Excel
 - MsExcel for Data Cleaning[Download here](https://microsoftexcel.com)
 ---
-```
+
 **## Google Query Sheet**
 
 Select *From Table 1
 
 Where Condition = Met
+
+![](Mariam Dennis Pix.png).
+
+
+|Heading 1 | Heading 2| Heading 3|
+|----------|----------|----------|
+|Mariam|Female|Married|
