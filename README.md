@@ -26,9 +26,14 @@ Select *From Table 1
 
 Where Condition = Met
 
-![](Mariam Dennis Pix.png).
+
 
 
 |Heading 1 | Heading 2| Heading 3|
 |----------|----------|----------|
-|Mariam|Female|Married|
+|Name|Gender|Birthday|
+
+
+
+
+![](PicturesforBios.jpg) 
