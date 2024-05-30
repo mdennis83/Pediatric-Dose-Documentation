@@ -17,6 +17,7 @@ It involves visit to the all the government owned facilties with functional pedi
 - Power Bi
 - Python
 Ms Excel
+
 - MsExcel for Data Cleaning[Download here](https://microsoftexcel.com)
 ---
 
